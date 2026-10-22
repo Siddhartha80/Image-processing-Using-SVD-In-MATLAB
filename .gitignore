@@ -1,0 +1,23 @@
+# MATLAB autosave / temporary files
+*.asv
+*.autosave
+*.m~
+*.mlx~
+
+# Compiled MEX and build artifacts
+*.mex*
+*.mexa64
+*.mexmaci64
+*.mexw64
+codegen/
+slprj/
+
+# Generated output
+*.slxc
+*.p
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
