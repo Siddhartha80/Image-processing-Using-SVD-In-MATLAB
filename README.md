@@ -120,11 +120,3 @@ These are observations from reading the current code; the algorithms were left u
 1. R. A. Sadek, "SVD Based Image Processing Applications: State of the Art, Contributions and Research Challenges," *International Journal of Advanced Computer Science and Applications (IJACSA)*, vol. 3, no. 7, 2012. ([copy in this repo](docs/references/sadek-2012-svd-image-processing.pdf))
 2. H. C. Andrews and C. L. Patterson, "Singular value decompositions and digital image processing," *IEEE Trans. Acoustics, Speech, and Signal Processing*, vol. ASSP-24, pp. 26–53, 1976.
 3. J. L. Kamm, "SVD-Based Methods for Signal and Image Restoration," PhD thesis, 1998.
-
-## Authors
-
-Team Batch E4, Amrita School of Engineering:
-
-- Mettu Siddhartha ([@Siddhartha80](https://github.com/Siddhartha80))
-- M. Ramya Sree
-- Poli Vamsi Vardhan Reddy
